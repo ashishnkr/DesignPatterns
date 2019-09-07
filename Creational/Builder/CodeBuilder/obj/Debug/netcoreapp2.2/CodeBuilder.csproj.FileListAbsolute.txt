@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\bin\Debug\netcoreapp2.2\CodeBuilder.deps.json
+D:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\bin\Debug\netcoreapp2.2\CodeBuilder.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\bin\Debug\netcoreapp2.2\CodeBuilder.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\bin\Debug\netcoreapp2.2\CodeBuilder.dll
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\bin\Debug\netcoreapp2.2\CodeBuilder.pdb
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\obj\Debug\netcoreapp2.2\CodeBuilder.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\obj\Debug\netcoreapp2.2\CodeBuilder.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\obj\Debug\netcoreapp2.2\CodeBuilder.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\obj\Debug\netcoreapp2.2\CodeBuilder.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\obj\Debug\netcoreapp2.2\CodeBuilder.dll
+d:\Documents\GitHub\GofPatterns\Creational\Builder\CodeBuilder\obj\Debug\netcoreapp2.2\CodeBuilder.pdb

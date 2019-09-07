@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Structural\Composite\bin\Debug\netcoreapp2.2\Composite.deps.json
+D:\Documents\GitHub\GofPatterns\Structural\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Structural\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Structural\Composite\bin\Debug\netcoreapp2.2\Composite.dll
+d:\Documents\GitHub\GofPatterns\Structural\Composite\bin\Debug\netcoreapp2.2\Composite.pdb
+d:\Documents\GitHub\GofPatterns\Structural\Composite\obj\Debug\netcoreapp2.2\Composite.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Structural\Composite\obj\Debug\netcoreapp2.2\Composite.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Structural\Composite\obj\Debug\netcoreapp2.2\Composite.dll
+d:\Documents\GitHub\GofPatterns\Structural\Composite\obj\Debug\netcoreapp2.2\Composite.pdb

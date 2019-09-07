@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\bin\Debug\netcoreapp2.2\PropertyProxy.deps.json
+D:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\bin\Debug\netcoreapp2.2\PropertyProxy.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\bin\Debug\netcoreapp2.2\PropertyProxy.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\bin\Debug\netcoreapp2.2\PropertyProxy.dll
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\bin\Debug\netcoreapp2.2\PropertyProxy.pdb
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\obj\Debug\netcoreapp2.2\PropertyProxy.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\obj\Debug\netcoreapp2.2\PropertyProxy.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\obj\Debug\netcoreapp2.2\PropertyProxy.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\obj\Debug\netcoreapp2.2\PropertyProxy.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\obj\Debug\netcoreapp2.2\PropertyProxy.dll
+d:\Documents\GitHub\GofPatterns\Structural\Proxy\PropertyProxy\obj\Debug\netcoreapp2.2\PropertyProxy.pdb

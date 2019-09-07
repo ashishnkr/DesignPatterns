@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\bin\Debug\netcoreapp2.2\PersonFactory.deps.json
+D:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\bin\Debug\netcoreapp2.2\PersonFactory.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\bin\Debug\netcoreapp2.2\PersonFactory.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\bin\Debug\netcoreapp2.2\PersonFactory.dll
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\bin\Debug\netcoreapp2.2\PersonFactory.pdb
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\obj\Debug\netcoreapp2.2\PersonFactory.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\obj\Debug\netcoreapp2.2\PersonFactory.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\obj\Debug\netcoreapp2.2\PersonFactory.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\obj\Debug\netcoreapp2.2\PersonFactory.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\obj\Debug\netcoreapp2.2\PersonFactory.dll
+d:\Documents\GitHub\GofPatterns\Creational\Factory\PersonFactory\obj\Debug\netcoreapp2.2\PersonFactory.pdb

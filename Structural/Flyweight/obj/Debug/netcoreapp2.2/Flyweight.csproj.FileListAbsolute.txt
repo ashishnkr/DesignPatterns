@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Structural\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.deps.json
+D:\Documents\GitHub\GofPatterns\Structural\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Structural\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.dll
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\bin\Debug\netcoreapp2.2\Flyweight.pdb
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.dll
+d:\Documents\GitHub\GofPatterns\Structural\Flyweight\obj\Debug\netcoreapp2.2\Flyweight.pdb

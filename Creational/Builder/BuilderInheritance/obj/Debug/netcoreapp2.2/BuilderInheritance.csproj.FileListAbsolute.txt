@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\bin\Debug\netcoreapp2.2\BuilderInheritance.deps.json
+D:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\bin\Debug\netcoreapp2.2\BuilderInheritance.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\bin\Debug\netcoreapp2.2\BuilderInheritance.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\bin\Debug\netcoreapp2.2\BuilderInheritance.dll
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\bin\Debug\netcoreapp2.2\BuilderInheritance.pdb
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\obj\Debug\netcoreapp2.2\BuilderInheritance.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\obj\Debug\netcoreapp2.2\BuilderInheritance.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\obj\Debug\netcoreapp2.2\BuilderInheritance.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\obj\Debug\netcoreapp2.2\BuilderInheritance.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\obj\Debug\netcoreapp2.2\BuilderInheritance.dll
+d:\Documents\GitHub\GofPatterns\Creational\Builder\BuilderInheritance\obj\Debug\netcoreapp2.2\BuilderInheritance.pdb

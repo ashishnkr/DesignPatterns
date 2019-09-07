@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Structural\Adaptor\bin\Debug\netcoreapp2.2\Adaptor.deps.json
+D:\Documents\GitHub\GofPatterns\Structural\Adaptor\bin\Debug\netcoreapp2.2\Adaptor.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Structural\Adaptor\bin\Debug\netcoreapp2.2\Adaptor.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\bin\Debug\netcoreapp2.2\Adaptor.dll
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\bin\Debug\netcoreapp2.2\Adaptor.pdb
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\obj\Debug\netcoreapp2.2\Adaptor.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\obj\Debug\netcoreapp2.2\Adaptor.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\obj\Debug\netcoreapp2.2\Adaptor.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\obj\Debug\netcoreapp2.2\Adaptor.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\obj\Debug\netcoreapp2.2\Adaptor.dll
+d:\Documents\GitHub\GofPatterns\Structural\Adaptor\obj\Debug\netcoreapp2.2\Adaptor.pdb

@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.deps.json
+D:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.dll
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.pdb
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.dll
+d:\Documents\GitHub\GofPatterns\Creational\Factory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.pdb

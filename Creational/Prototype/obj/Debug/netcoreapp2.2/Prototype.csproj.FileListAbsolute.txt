@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Creational\Prototype\bin\Debug\netcoreapp2.2\Prototype.deps.json
+D:\Documents\GitHub\GofPatterns\Creational\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Creational\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\bin\Debug\netcoreapp2.2\Prototype.dll
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\bin\Debug\netcoreapp2.2\Prototype.pdb
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\obj\Debug\netcoreapp2.2\Prototype.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\obj\Debug\netcoreapp2.2\Prototype.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\obj\Debug\netcoreapp2.2\Prototype.dll
+d:\Documents\GitHub\GofPatterns\Creational\Prototype\obj\Debug\netcoreapp2.2\Prototype.pdb

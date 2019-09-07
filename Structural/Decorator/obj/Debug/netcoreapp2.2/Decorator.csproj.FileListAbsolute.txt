@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Structural\Decorator\bin\Debug\netcoreapp2.2\Decorator.deps.json
+D:\Documents\GitHub\GofPatterns\Structural\Decorator\bin\Debug\netcoreapp2.2\Decorator.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Structural\Decorator\bin\Debug\netcoreapp2.2\Decorator.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\bin\Debug\netcoreapp2.2\Decorator.dll
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\bin\Debug\netcoreapp2.2\Decorator.pdb
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\obj\Debug\netcoreapp2.2\Decorator.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\obj\Debug\netcoreapp2.2\Decorator.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\obj\Debug\netcoreapp2.2\Decorator.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\obj\Debug\netcoreapp2.2\Decorator.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\obj\Debug\netcoreapp2.2\Decorator.dll
+d:\Documents\GitHub\GofPatterns\Structural\Decorator\obj\Debug\netcoreapp2.2\Decorator.pdb

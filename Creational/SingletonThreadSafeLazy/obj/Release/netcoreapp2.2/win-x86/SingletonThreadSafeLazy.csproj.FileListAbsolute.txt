@@ -1,0 +1,14 @@
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.exe
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.deps.json
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.runtimeconfig.dev.json
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.dll
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.pdb
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.csprojAssemblyReference.cache
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.AssemblyInfoInputs.cache
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.AssemblyInfo.cs
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.dll
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Release\netcoreapp2.2\win-x86\SingletonThreadSafeLazy.pdb

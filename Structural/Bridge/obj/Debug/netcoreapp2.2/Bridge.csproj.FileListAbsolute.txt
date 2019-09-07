@@ -1,0 +1,11 @@
+D:\Documents\GitHub\GofPatterns\Structural\Bridge\bin\Debug\netcoreapp2.2\Bridge.deps.json
+D:\Documents\GitHub\GofPatterns\Structural\Bridge\bin\Debug\netcoreapp2.2\Bridge.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Structural\Bridge\bin\Debug\netcoreapp2.2\Bridge.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\bin\Debug\netcoreapp2.2\Bridge.dll
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\bin\Debug\netcoreapp2.2\Bridge.pdb
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\obj\Debug\netcoreapp2.2\Bridge.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\obj\Debug\netcoreapp2.2\Bridge.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\obj\Debug\netcoreapp2.2\Bridge.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\obj\Debug\netcoreapp2.2\Bridge.dll
+d:\Documents\GitHub\GofPatterns\Structural\Bridge\obj\Debug\netcoreapp2.2\Bridge.pdb

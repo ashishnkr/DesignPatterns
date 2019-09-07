@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "50f33094e1d4042914293d63f4a1b72b7191cb7d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SingletonThreadSafeLazy/1.0.0": {
+        "dependencies": {
+          "morelinq": "3.2.0"
+        },
+        "runtime": {
+          "SingletonThreadSafeLazy.dll": {}
+        }
+      },
+      "morelinq/3.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/MoreLinq.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingletonThreadSafeLazy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "morelinq/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Anb2PApG8NYVXR2tG3kYje9E3pNFkyjeTtvhTzaLtCIBs2v1KB3nGuwmsh/froF4TPwqj1Uy9pNadreairnpZQ==",
+      "path": "morelinq/3.2.0",
+      "hashPath": "morelinq.3.2.0.nupkg.sha512"
+    }
+  }
+}

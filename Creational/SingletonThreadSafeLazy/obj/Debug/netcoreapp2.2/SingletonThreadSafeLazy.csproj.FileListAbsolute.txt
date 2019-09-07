@@ -1,0 +1,12 @@
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Debug\netcoreapp2.2\SingletonThreadSafeLazy.deps.json
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Debug\netcoreapp2.2\SingletonThreadSafeLazy.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Debug\netcoreapp2.2\SingletonThreadSafeLazy.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Debug\netcoreapp2.2\SingletonThreadSafeLazy.dll
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Debug\netcoreapp2.2\SingletonThreadSafeLazy.pdb
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Debug\netcoreapp2.2\SingletonThreadSafeLazy.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Debug\netcoreapp2.2\SingletonThreadSafeLazy.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Debug\netcoreapp2.2\SingletonThreadSafeLazy.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Debug\netcoreapp2.2\SingletonThreadSafeLazy.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Debug\netcoreapp2.2\SingletonThreadSafeLazy.dll
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\obj\Debug\netcoreapp2.2\SingletonThreadSafeLazy.pdb
+d:\Documents\GitHub\GofPatterns\Creational\SingletonThreadSafeLazy\bin\Debug\netcoreapp2.2\capitals.txt
