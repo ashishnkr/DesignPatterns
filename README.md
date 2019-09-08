@@ -4,32 +4,61 @@ This is just for education purpose. Hence, I tried to keep it simple. All the cl
 Below is the directory Structure:
 
 GofPatterns
+
 ├───Behavioral
-│   ├───ChainOfResponsibility
-│   ├───Command
-│   ├───Interpreter
-│   ├───Iterator
-│   ├───Mediator
-│   ├───Memento
-│   ├───NullObject
-│   ├───Observer
-│   ├───State
-│   ├───Strategy
-│   ├───TemplateMethod
-│   └───Visitor
+
+│       ├───ChainOfResponsibility
+
+│       ├───Command
+
+│       ├───Interpreter
+
+│       ├───Iterator
+
+│       ├───Mediator
+
+│       ├───Memento
+
+│       ├───NullObject
+
+│       ├───Observer
+
+│       ├───State
+
+│       ├───Strategy
+
+│       ├───TemplateMethod
+
+│       └───Visitor
+
 ├───Creational
-│   ├───Builder
-│   │   └───CodeBuilder
-│   ├───Factory
-│   │   ├───AbstractFactory
-│   │   └───PersonFactory
-│   ├───Prototype
-│   └───SingletonThreadSafeLazy
+
+│       ├───Builder
+
+│       │   └───CodeBuilder
+
+│       ├───Factory
+
+│       │   ├───AbstractFactory
+
+│       │   └───PersonFactory
+
+│       ├───Prototype
+
+│       └───SingletonThreadSafeLazy
+
 └───Structural
-    ├───Adaptor
-    ├───Bridge
-    ├───Composite
-    ├───Decorator
-    ├───Flyweight
-    └───Proxy
-        └───ProtectionProxy
+
+        ├───Adaptor
+    
+        ├───Bridge
+    
+        ├───Composite
+    
+        ├───Decorator
+    
+        ├───Flyweight
+    
+        └───Proxy
+    
+                └───ProtectionProxy
