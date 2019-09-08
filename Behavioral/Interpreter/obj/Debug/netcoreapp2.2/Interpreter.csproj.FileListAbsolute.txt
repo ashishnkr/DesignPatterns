@@ -1,0 +1,11 @@
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.AssemblyInfo.cs
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.deps.json
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.runtimeconfig.json
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.dll
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.pdb
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.dll
+d:\Documents\GitHub\GofPatterns\Behavioral\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.pdb

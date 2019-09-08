@@ -1,0 +1,11 @@
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\obj\Debug\netcoreapp2.2\Iterator.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\obj\Debug\netcoreapp2.2\Iterator.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\obj\Debug\netcoreapp2.2\Iterator.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\obj\Debug\netcoreapp2.2\Iterator.AssemblyInfo.cs
+D:\Documents\GitHub\GofPatterns\Behavioral\Iterator\bin\Debug\netcoreapp2.2\Iterator.deps.json
+D:\Documents\GitHub\GofPatterns\Behavioral\Iterator\bin\Debug\netcoreapp2.2\Iterator.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Behavioral\Iterator\bin\Debug\netcoreapp2.2\Iterator.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\bin\Debug\netcoreapp2.2\Iterator.dll
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\bin\Debug\netcoreapp2.2\Iterator.pdb
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\obj\Debug\netcoreapp2.2\Iterator.dll
+d:\Documents\GitHub\GofPatterns\Behavioral\Iterator\obj\Debug\netcoreapp2.2\Iterator.pdb

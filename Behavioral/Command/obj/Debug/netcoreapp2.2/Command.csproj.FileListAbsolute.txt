@@ -1,0 +1,11 @@
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\obj\Debug\netcoreapp2.2\Command.csprojAssemblyReference.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\obj\Debug\netcoreapp2.2\Command.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfoInputs.cache
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfo.cs
+D:\Documents\GitHub\GofPatterns\Behavioral\Command\bin\Debug\netcoreapp2.2\Command.deps.json
+D:\Documents\GitHub\GofPatterns\Behavioral\Command\bin\Debug\netcoreapp2.2\Command.runtimeconfig.json
+D:\Documents\GitHub\GofPatterns\Behavioral\Command\bin\Debug\netcoreapp2.2\Command.runtimeconfig.dev.json
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\bin\Debug\netcoreapp2.2\Command.dll
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\bin\Debug\netcoreapp2.2\Command.pdb
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\obj\Debug\netcoreapp2.2\Command.dll
+d:\Documents\GitHub\GofPatterns\Behavioral\Command\obj\Debug\netcoreapp2.2\Command.pdb
