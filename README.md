@@ -9,60 +9,32 @@ Below is the directory Structure:
 
 GofPatterns
 
-├───Behavioral
-
-│       ├───ChainOfResponsibility
-
-│       ├───Command
-
-│       ├───Interpreter
-
-│       ├───Iterator
-
-│       ├───Mediator
-
-│       ├───Memento
-
-│       ├───NullObject
-
-│       ├───Observer
-
-│       ├───State
-
-│       ├───Strategy
-
-│       ├───TemplateMethod
-
-│       └───Visitor
-
-├───Creational
-
-│       ├───Builder
-
-│       │   └───CodeBuilder
-
-│       ├───Factory
-
-│       │   ├───AbstractFactory
-
-│       │   └───PersonFactory
-
-│       ├───Prototype
-
-│       └───SingletonThreadSafeLazy
-
-└───Structural
-
-        ├───Adaptor
-    
-        ├───Bridge
-    
-        ├───Composite
-    
-        ├───Decorator
-    
-        ├───Flyweight
-    
-        └───Proxy
-    
-                └───ProtectionProxy
+- Behavioral
+    - ChainOfResponsibility
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+	- NullObject
+	- Observer
+	- State
+	- Strategy
+	- TemplateMethod
+	- Visitor
+- Creational
+	- Builder
+		- CodeBuilder
+	- Factory
+		- AbstractFactory
+		- PersonFactory
+	- Prototype
+	- SingletonThreadSafeLazy
+- Structural
+	- Adaptor
+	- Bridge
+	- Composite
+		- Decorator
+		- Flyweight
+		- Proxy
+			- ProtectionProxy
